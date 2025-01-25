@@ -1,6 +1,6 @@
 # Finetuning Notebooks
 
-Notebooks to finetune various models that can run on Google Colab. 
+Notebooks to finetune several models that can run on Google Colab. 
 
 ## Notebooks
 
