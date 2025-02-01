@@ -18,4 +18,4 @@ Notebooks to finetune several models that can run on Google Colab.
 
 - Flux Lora Training : https://github.com/ostris/ai-toolkit
 - Hunyuan Lora Training : https://github.com/tdrussell/diffusion-pipe
-- SDXL Lora Training : https://github.com/huggingface/diffusers
+- SDXL Lora Training (Dreambooth) : https://github.com/huggingface/diffusers
