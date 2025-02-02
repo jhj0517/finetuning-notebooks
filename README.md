@@ -15,6 +15,9 @@ Notebooks to finetune several models that can run on Google Colab.
 
 </div>
 
+## Tips
+- [Preparing A Dataset with Captions](https://github.com/jhj0517/finetuning-notebooks/blob/master/docs/Preparing%20A%20Dataset%20with%20Captions.md)
+
 ## 🌺 Thanks
 
 - Flux Lora Training : https://github.com/ostris/ai-toolkit
