@@ -23,4 +23,4 @@ Notebooks to finetune several models that can run on Google Colab.
 
 - Flux LoRA Training : https://github.com/ostris/ai-toolkit
 - Hunyuan Video & LTX Video LoRA Training : https://github.com/tdrussell/diffusion-pipe
-- SDXL LoRA Training (Dreambooth) : https://github.com/huggingface/diffusers
+- Many training scripts are from the diffusers 🤗: https://github.com/huggingface/diffusers
