@@ -4,6 +4,7 @@ Notebooks to finetune several models that can run on Google Colab.
 
 ## Notebooks
 
+For the dataset sizes, usually 5 ~ 20 images are enough to train LoRAs.
 <div align="center">
 
 | Category          | Model Type |                                                                                                       Notebook                                                                                                        |                                                                                                    Open in Colab                                                                                                     |
